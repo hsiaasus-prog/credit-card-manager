@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy[asyncio]
+pydantic
+pydantic-settings
+pdfplumber
+google-genai
+cryptography
+python-dotenv
+uvicorn
+aiosqlite
+python-multipart

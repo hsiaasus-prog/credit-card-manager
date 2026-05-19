@@ -1,0 +1,6 @@
+{
+  "name": "信用卡管家 (Credit Card Manager)",
+  "description": "智能信用卡消費與回饋管理工具，提供消費分析、帳單匯入與最佳刷卡建議。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
